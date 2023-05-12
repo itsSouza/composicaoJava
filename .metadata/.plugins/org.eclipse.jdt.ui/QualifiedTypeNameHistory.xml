@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="entidades.Pedido"/>
+    <fullyQualifiedTypeName name="entidades.enums.StatusPedido"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="entidades.Empregado"/>
+    <fullyQualifiedTypeName name="entidades.enums.Senioridade"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="entidades.ContratoHora"/>
+</qualifiedTypeNameHistroy>

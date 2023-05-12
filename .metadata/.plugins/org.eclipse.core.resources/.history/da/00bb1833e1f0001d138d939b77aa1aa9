@@ -1,0 +1,20 @@
+package application;
+
+import java.util.Date;
+
+import entidades.Pedido;
+import entidades.enums.StatusPedido;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		
+		
+		Pedido pedido = new Pedido(1030, new Date(), StatusPedido.PAGAMENTO_PENDENTE);
+
+		System.out.println(pedido);
+		
+	}
+
+}
